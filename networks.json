@@ -1,0 +1,8 @@
+{
+  "mainnet": {
+    "FactoryContract": {
+      "address": "0x5DBC7B840baa9daBcBe9D2492E45D7244B54A2A0",
+      "startBlock": 14617080
+    }
+  }
+}
